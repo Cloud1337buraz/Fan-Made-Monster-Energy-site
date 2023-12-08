@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /images/
 
 sitemap: https://cloud1337buraz.github.io/Fan-Made-Monster-Energy-site/sitemap.xml 
